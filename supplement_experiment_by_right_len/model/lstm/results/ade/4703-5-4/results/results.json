@@ -1,0 +1,9 @@
+{
+ "dataset_name": "ade",
+ "split_name": "4703-5-4",
+ "results": {
+  "AccMetric": {
+   "acc": 0.9022316684378321
+  }
+ }
+}

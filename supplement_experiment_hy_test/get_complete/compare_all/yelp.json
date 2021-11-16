@@ -1,0 +1,23 @@
+{
+ "bert>cnn": 1000,
+ "cnn>bert": 0,
+ "bert>lstm-self": 1000,
+ "lstm-self>bert": 0,
+ "bert>lstm": 1000,
+ "lstm>bert": 0,
+ "cnn>lstm-self": 0,
+ "lstm-self>cnn": 1000,
+ "cnn>lstm": 0,
+ "lstm>cnn": 1000,
+ "lstm-self>lstm": 491,
+ "lstm>lstm-self": 509,
+ "fact": {
+  "bert>cnn": 1.0,
+  "bert>lstm-self": 1.0,
+  "bert>lstm": 1.0,
+  "lstm>lstm-self": 0.509,
+  "lstm-self>cnn": 1.0,
+  "lstm>cnn": 1.0,
+  "final": 0.9181666666666667
+ }
+}
